@@ -1,15 +1,34 @@
- # 💫 About Me:
-Electronics Engineering Student | Making an<br>Impact in Efficient and Scalable Software Solutions<br><br>•🍀I am currently learning C++ and Python<br><br>•✉️ You can contact me at contact.bibashdhakal@gmail.com
+# Hi ![img](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bibash Dhakal
 
+## Electronics Engineering Student | Making an Impace in Efficient and Scalable Software Solutions 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bibashdhakal) 
+<img alin="center" alt="Coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bibashdhakal&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+- 🌍  I'm based in Nepal.
+- 🍀  I'm current learning C++ and Python.
+- ✉️  You can contact me at [contact.bibashdhakal@gmail.com](mailto:ad@gmail.com)
+
+### Skills
+
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c,cpp,github," />
+  </a>
+</p>
+
+### Socials
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/bibashdhakal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+
+</p>
+
+# 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bibashdhakal&theme=neon&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=bibashdhakal&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bibashdhakal&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
@@ -17,5 +36,3 @@ Electronics Engineering Student | Making an<br>Impact in Efficient and Scalable 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bibashdhakal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
