@@ -6,7 +6,7 @@
 - 🎓 **Education**: Electronics Engineering at Purwanchal Campus, IoE, TU
 - 💡 **Interests**: Software Development & Electro-Mechanical Simulation
 - 🍀 **Current Learning**: C++, Python and Autodesk Fusion
-- ✉️ **E-mail** [contact.bibashdhakal@gmail.com](mailto:ad@gmail.com)
+- ✉️ **E-mail**: [contact.bibashdhakal@gmail.com](mailto:ad@gmail.com)
 
 ### Skills
 
