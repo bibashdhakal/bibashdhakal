@@ -1,63 +1,38 @@
-# Hi, I'm Bibash Dhakal 👋
+# Hi ![img](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bibash Dhakal.
 
-I’m a passionate builder who loves turning ideas into clean, reliable software and learning something new every day. I care about readable code, thoughtful UX, and shipping things that make a difference.
+## Making an Impact in Efficient and Scalable Software Solutions
+<img alin="center" alt="Coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🔭 Currently working on: projects that sharpen fundamentals and showcase clean architecture
-- 🌱 Learning: deeper OOP principles, testing strategies, and modern web tooling
-- 🤝 Open to: collaborating on beginner-friendly OSS and small impactful apps
-- ⚡ Fun fact: I document what I learn so future-me says “thanks!”
+- 🎓 **Education**: Electronics Engineering at Purwanchal Campus, IoE, TU
+- 💡 **Interests**: Software Development & Electro-Mechanical Simulation
+- 🍀 **Current Learning**: C++, Python and Autodesk Fusion
+- ✉️ **E-mail**: [hello.bibashdhakal@outlook.com](mailto:hello.bibashdhakal@outlook.com)
 
----
+### Skills
 
-## 🧰 Tech I enjoy
-Code, tools, and concepts I like working with:
-- Languages: `JavaScript/TypeScript`, `Python`, `C#`, `Java` (customize these)
-- Web: `HTML`, `CSS`, `Tailwind`, `React` (or your preferred stack)
-- Concepts: `OOP`, `Data Structures`, `Testing`, `Clean Code`
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=github,c,cpp,html,css,python," />
+  </a>
+</p>
 
----
+### Socials
 
-## 🚀 Featured Projects
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/bibashdhakal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
 
-- Portfolio Website (experimental)  
-  Repo: https://github.com/bibashdhakal/test_portfoliowebsite  
-  A sandbox for trying layouts, components, and responsive design.
+</p>
 
-- Dictionary Console App  
-  Repo: https://github.com/bibashdhakal/Dictionary-Console-App  
-  A simple console-based project exploring dictionary data structures and CLI UX.
+# 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=bibashdhakal&theme=neon&hide_border=false)<br/>
 
-- OOP Assignments  
-  Repo: https://github.com/bibashdhakal/OOP-Assignment  
-  Exercises focused on applying core OOP principles and patterns.
+![](https://github-readme-stats.vercel.app/api?username=bibashdhakal&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-Tip: Pin your favorite repos so they appear at the top of your profile.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bibashdhakal&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-## 📊 GitHub Stats
-
-![Bibash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibashdhakal&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibashdhakal&layout=compact&theme=transparent)
-![GitHub Streak](https://streak-stats.demolab.com?user=bibashdhakal&theme=transparent&hide_border=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bibashdhakal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 📫 Connect
-
-- Website/Portfolio: add your link
-- LinkedIn: add your link
-- X/Twitter: add your handle
-- Email: add your public email
-
-If you like my work, feel free to star a repo or drop a note—always happy to connect!
-
----
-
-## ✍️ Notes to self (customize and keep or remove)
-- Write small, focused commits with clear messages
-- Prefer readability over cleverness
-- Add tests for tricky logic
-- Document decisions; future-you will thank you
-
-Thanks for stopping by! 🙌
+[![](https://visitcount.itsvg.in/api?id=bibashdhakal&icon=0&color=0)](https://visitcount.itsvg.in)
